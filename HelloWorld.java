@@ -6,8 +6,8 @@ public class HelloWorld {
 
 
 /* Nameing convections in Java
-AddTwoNumberS --> Pascal naming convection
-addTwoNumbers --> Camel case naming convection
+AddTwoNumberS --> Pascal naming convection for Classes
+addTwoNumbers --> Camel case naming convection for Function
 */
 
 
